@@ -4,7 +4,7 @@
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=babucc&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babucc&layout=compact)](https://github.com/babucc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babucc&layout=compact&theme=dracula)](https://github.com/babucc/github-readme-stats)
 
 ## Tecnologias que utilizo 💻
 
@@ -16,4 +16,3 @@
   </div><br/>
   
   Estudante de Desenvolvimento de Sistemas no SENAI-BA.
-  
