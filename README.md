@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Danilo Mendonça 👋
 
-Estudante de Desenvolvimento de Sistemas no SENAI-BA.
+Estudante de Desenvolvimento de Sistemas no SENAI.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-mendonça-23833a237/)
 
