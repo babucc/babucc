@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Danilo Mendonça 👋
 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-mendonça-23833a237/)
+
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=babucc&show_icons=true&theme=dracula)
 
