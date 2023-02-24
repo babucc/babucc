@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Danilo Mendonça 👋
 
+Estudante de Desenvolvimento de Sistemas no SENAI-BA.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-mendonça-23833a237/)
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=babucc&show_icons=true&theme=dracula)
@@ -14,5 +16,3 @@
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   </div><br/>
-  
-  Estudante de Desenvolvimento de Sistemas no SENAI-BA.
