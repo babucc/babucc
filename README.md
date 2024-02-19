@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Danilo Mendonça 👋
 
-Estudante de Desenvolvimento de Sistemas no SENAI.
+Estudante de Análise e Desenvolvimento de Sistemas da UniRuy.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-mendonça-23833a237/)
 
