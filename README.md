@@ -3,7 +3,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas pela UniRuy.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-mendonça-23833a237/)
-[![G-MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+![G-MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=babucc&show_icons=true&theme=dracula)
 
