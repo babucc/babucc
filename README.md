@@ -1,6 +1,6 @@
-### Olá! Eu sou o Danilo Mendonça 👋
+### Olá! Eu sou Danilo Mendonça 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas pela UniRuy.
+Técnico de TI Júnior no Grupo Plantão e Estudante de Análise e Desenvolvimento de Sistemas pela UniRuy.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-mendonça-23833a237/)
 
