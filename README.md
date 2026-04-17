@@ -1,9 +1,10 @@
 ### Olá! Me chamo Danilo Mendonça 👋
 
-Atuo como Técnico de TI Júnior e QA Tester no Grupo Plantão. 
+Atuo como Técnico de TI Júnior e QA Tester no Grupo Plantão, empresa de engenharia e telecom. 
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pela UniRuy Wyden.
 
+Me conheça melhor:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-mendonça-23833a237/)
 
 ## Conhecimentos 💻
